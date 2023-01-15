@@ -1,0 +1,11 @@
+.DS_Store
+
+## Input Data Folder
+!chat/
+chat/*
+!chat/.gitkeep
+
+## Ouput Data Folder
+!result/
+result/*
+!result/.gitkeep
